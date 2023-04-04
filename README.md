@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Cjavascript%2Creact%2Cbootstrap%2Csass%2Cless&preset=default&shadow=true&width=100)
+![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Cjavascript%2Creact%2Cbootstrap%2Csass%2Cless&preset=deep-blue&shadow=true&width=80)
 
 <!--
 **arasaltug/arasaltug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
