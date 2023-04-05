@@ -1,5 +1,7 @@
 <h1 align="left">Hi there, I'm Aras 👋🏻 </h1>
 
+<h3 align="left"> I am a Frontend Developer. </h3>
+
 
 <h2 align='left''> Languages and Tools 💻 </h2>
 
