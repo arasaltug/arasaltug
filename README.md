@@ -1,6 +1,5 @@
 <h1 align="left">Hi there, I'm Aras 👋🏻 </h1>
 
-<hr>
 
 <h2 align='left''> Languages and Tools 💻 </h2>
 
